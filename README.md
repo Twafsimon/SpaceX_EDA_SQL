@@ -14,4 +14,4 @@ Rank the count of landing outcomes (such as Failure (drone ship) or Success (gro
 Create a bar graph on Orbit based on the distribution of average payload mass <br>
 Create a Pie chart on Orbit based on its frequency in the dataset <br>
 Create a bar chart on Orbit based on the sum of Successful Mission_Outcome as referred to the Launch sites <br>
-14 . Create a heat map on the frequency of the Launch site and Orbits <br>
+Create a heat map on the frequency of the Launch site and Orbits <br>
